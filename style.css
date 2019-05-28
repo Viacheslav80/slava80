@@ -1,0 +1,52 @@
+ body {
+    
+    font-family: Georgia;
+    font-size: 16px;
+    margin: 0 auto;   /* center content */
+    max-width: 800px; /* limit width */
+    line-height: 1.5;
+    padding-top: 32px;
+    padding-bottom: 32px;
+  }
+ #header {
+    text-align: -webkit-center;
+    margin-bottom: 32px;
+         }
+ #main {
+    padding-left: 50px;
+
+     }
+ #footer {
+     margin-top: 64px ;
+     text-align: -webkit-center;
+     }
+   
+ h1 { font-size: 36px; }
+ h2 { font-size: 32px;
+      border-bottom: 1px solid ; 
+      margin-bottom: 8px; }
+ h3 { font-size: 20px  }
+ h1, h3 {
+     margin-bottom: 0
+ }
+ h1,h2,h3 {
+     font-weight: 400; 
+     }
+ .job {
+     font-size: 16px;
+     font-weight: 500;
+     margin: 2px;
+
+    }
+ p,li {
+     font-size: 14px;
+     margin-top: 0;
+     margin-bottom: 12px;
+      }
+ li {margin: 3px; }
+ ul {margin-bottom: 20px;}
+ a { margin-left: 10px; }
+
+      
+
+  
